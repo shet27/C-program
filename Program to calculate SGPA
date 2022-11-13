@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(void) {
+
+  int subj1,subj2,subj3,subj4,subj5,subj6,subj7,sujb8,subj9;
+  float SGPA=0;
+  printf("enter the subject grades of SEM1\n");
+  scanf("%d%d%d%d%d%d%d%d%d",&subj1,&subj2,&subj3,&subj4,&subj5,&subj6,&subj7,&subj8,&subj9);
+  SGPA=(subj1*3+subj2*3+subj3*3+subj4*3+subj5*3+subj6*1+subj7*1+subj8*2+subj9*1)/20.0;
+    
+  printf("SGPA of SEM1 is %f",SGPA);
+  
+  return 0;
+}
