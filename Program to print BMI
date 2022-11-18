@@ -13,7 +13,7 @@ int main()
   }
     else if(bmi <= 24.9)
   {
-        printf("BMI Report is :  %.2f -> Normal",bmi);
+        printf("BMI Report is :  %.2f -> Normal",bmi); //bmi is body mass index of a person !
   }
     else if(bmi >= 25 && bmi <= 29.9)
   {
