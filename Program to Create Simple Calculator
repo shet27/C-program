@@ -10,6 +10,7 @@ int main()
   	scanf("%f%f", &num1, &num2);
     switch(Operator)
 {
+	//All the cases which are possible in a simple calculator
   		case '+':
   			result = num1 + num2;
   			break;
