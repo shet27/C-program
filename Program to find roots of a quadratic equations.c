@@ -1,3 +1,4 @@
+//Program to find roots of a quadriatic equations //
 #include <math.h>
 #include <stdio.h>
 int main() 
