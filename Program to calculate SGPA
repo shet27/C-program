@@ -11,5 +11,4 @@ int main(void) {
     
   printf("SGPA of SEM1 is %f",SGPA);
   
-  return 0;
 }
