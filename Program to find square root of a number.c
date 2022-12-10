@@ -1,3 +1,4 @@
+//program to find square root of number //
 #include<stdio.h>
 #include<math.h>
  
