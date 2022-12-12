@@ -1,3 +1,4 @@
+//Program to calculate power using recursion//
 #include <stdio.h>
 int power(int n1, int n2);
 int main() {
