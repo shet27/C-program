@@ -11,7 +11,7 @@ int main()
 
   for (i = 2; i <= n / 2; ++i) 
   {
-    if (n % i == 0) {
+    if (n % i == 0) {  //if thr number is completely divisible by i then it is not a prime number.
       flag = 1;
       break;
     }
