@@ -13,7 +13,7 @@ int main() {
 
     while (1) {
         if ((max % n1 == 0) && (max % n2 == 0)) {
-            printf("The LCM of %d and %d is %d.", n1, n2, max); //LCM is Leastt Common Multiple
+            printf("The LCM of %d and %d is %d.", n1, n2, max); //LCM is Least Common Multiple
             break;
         }
         ++max;
