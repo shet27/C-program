@@ -1,4 +1,4 @@
-// Program to check Highest Frequency Character//
+// Program to check Highest Frequency Character in string//
 #include <stdio.h>
 #include <string.h>
  
