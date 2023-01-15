@@ -10,7 +10,7 @@ int main() {
     printf("Enter a Number: ");
     scanf("%d",&n);
      
-    v = sqrt(n);
+    v = sqrt(n); //this functipn sqrt() is present in math.h header file..
      
     printf("Square Root of %d is %f",n,v);
      
