@@ -1,5 +1,5 @@
-//program to find factorial of a number   
-//fact of n = n*n-1*n-2*n-3* ...... *1
+//program to find factorial of a number//  
+//fact of n = n*n-1*n-2*n-3* ...... *1//
 
 #include <stdio.h>
 int main() {
