@@ -1,4 +1,4 @@
-//reverse of a numer
+//plaindrome of a numer
 #include <stdio.h>
 
 int main() {
