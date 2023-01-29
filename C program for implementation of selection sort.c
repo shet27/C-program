@@ -1,4 +1,4 @@
-// C program for implementation of selection sort//
+// C program for implementation of selection sort
 #include <stdio.h>
 
 void swap(int *xp, int *yp)
@@ -26,7 +26,7 @@ void selectionSort(int arr[], int n)
 	}
 }
 
-/* Function to print an array */
+//Function to print an array 
 void printArray(int arr[], int size)
 {
 	int i;
