@@ -1,4 +1,4 @@
-//program to print binary numbers pattern//
+//program to print binary numbers pattern
 #include<stdio.h>
 int main() {
    int i, j;
