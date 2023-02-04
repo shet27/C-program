@@ -1,4 +1,4 @@
-//Program to display a table of squares and cubes
+//Program to display a table of squares and cubes//
 #include<stdio.h>
 #include<conio.h>
 void main() {
