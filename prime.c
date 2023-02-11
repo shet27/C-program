@@ -1,4 +1,4 @@
-//Program to check whether a number is prime or not//
+//Program to check whether a number is prime or not
 #include <stdio.h>
 
 int main()
