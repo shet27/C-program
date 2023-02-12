@@ -1,4 +1,4 @@
-//program to print pyramid//
+//program to print pyramid
 #include <stdio.h>
 int main() 
 {
