@@ -9,7 +9,7 @@ int main() {
          printf("%d ", count % 2);
          count++;
       }
-      if (i % 2 == 0)
+      if (i % 2 == 0)//modulo opreator gives the reminder
          count = 1;
       else
          count = 0;
