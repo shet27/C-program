@@ -1,4 +1,4 @@
-//program to reverse words in a given string//
+//program to reverse words in a given string
 #include <stdio.h>
 void reverse(char* begin,
 			char* end)
