@@ -1,4 +1,4 @@
-//program to create simple calculator
+//program to create simple calculato
 #include <stdio.h>
 int main()
 {
