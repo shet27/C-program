@@ -1,4 +1,4 @@
-// C program to demonstrate Boolean to String//
+// C program to demonstrate Boolean to String
 #include <stdbool.h>
 #include <stdio.h>
 int main()
