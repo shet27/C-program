@@ -1,4 +1,4 @@
-//program to find prime number//
+//program to find prime number
 #include <stdio.h>
 int main() 
 {
