@@ -1,5 +1,4 @@
-// C program to implement
-// the above approach
+// C program to implement the above approach
 #include <stdio.h>
 #define N 4
 
