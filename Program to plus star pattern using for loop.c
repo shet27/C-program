@@ -1,4 +1,4 @@
-//Program to plus star pattern using for loop
+//Program to plus star pattern using for-loop
 #include <stdio.h> 
 #include <conio.h>
 
