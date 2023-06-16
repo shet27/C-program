@@ -3,6 +3,7 @@
 #include <stdio.h>
 int main()
 {
+	//boolean
 	bool n = true;
 	if (n == true) {
 		printf("true");
